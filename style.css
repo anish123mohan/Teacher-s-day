@@ -1,0 +1,22 @@
+h1{
+    color: black;
+    float: center;
+}
+
+button
+{
+    background-color:e3c9ae;
+    border: 0;
+    font-size: large;
+    float: center;
+    color: black;
+}
+body{
+    background-image: cover;
+    background-size: 100%;
+}
+p{
+    color:dbbba2;
+}
+
+
